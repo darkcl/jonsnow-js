@@ -1,5 +1,7 @@
 # jonsnow-js
 
+![npm](https://img.shields.io/npm/v/jonsnow-js.svg)
+
 Jon Snow in Node.js
 
 ## Installation
